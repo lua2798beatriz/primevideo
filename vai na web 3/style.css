@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'inter',sans-serif;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    justify-content: space-between;
+    height: 100px;
+    color: rgb(255, 255, 255);
+}
+.lista-menu li>a {
+    color: #FFFFFF;
+    font-size: 18px;
+    text-decoration:none ;
+    align-items: center;
+    display: inline-block ;
+}
+li {
+    list-style: none; /*retira as bolinhas*/
+    display: inline-block;
+    margin: 40px;
+    position:relative;
+    text-align: center;
+}
+.img{
+    width: 1661px;
+    height: 535px;
+}
+.conteiner-catalogo{
+    height:546.72px;
+    width:369.24px;
+    align-items: center;
+   justify-content: center;
+    
+}
+footer{
+    background-color: black;
+    height: auto;
+    padding: 10px;
+    margin: 0px;
+}
+.roda-pe{
+    text-align:left;
+    display: inline;   
+ color: azure;
+  align-items: end;
+  justify-content: space-between;
+}
+footer img{
+ height: 40px; 
+ width: 40px;
+ margin: auto;
+margin-right: 5px;
+}
